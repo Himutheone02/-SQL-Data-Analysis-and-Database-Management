@@ -1,1 +1,1 @@
-# -SQL-Data-Analysis-and-Database-Management
+# SQL-Data-Analysis-and-Database-Management
